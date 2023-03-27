@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.counter{
+  display: flex;
+}
+input{
+  width: 80px;
+  height: 25px;
+}
+a{
+  padding: 5px 10px;
+  background-color: grey;
+}
